@@ -10,8 +10,7 @@ This project was made on EasyEDA and qualifies for the OSHWLAB Stars sponsorship
 
 <img width="1429" height="820" alt="image" src="https://github.com/user-attachments/assets/f588f137-99b8-4e4d-b528-a6079529be3a" />
 
-<img width="1305" height="854" alt="Screenshot 2026-06-24 at 2 07 26 PM" src="https://github.com/user-attachments/assets/c76c2bdd-20ef-429c-a6d2-368489ba88f0" />
-
+<img width="1305" height="854" alt="Screenshot 2026-06-24 at 2 07 26 PM" src="https://github.com/user-attachments/assets/c76c2bdd-20ef-429c-a6d2-368489ba88f0" /><img width="1330" height="747" alt="Screenshot 2026-06-24 at 2 09 36 PM" src="https://github.com/user-attachments/assets/b7e695b0-365b-45c5-82fc-348a49266cd1" />
 <img width="1118" height="637" alt="image" src="https://github.com/user-attachments/assets/9e087797-e7da-4c4e-8fe2-f12994e0c815" />
 
 # BOM?
