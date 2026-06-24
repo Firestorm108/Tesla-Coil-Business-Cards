@@ -9,3 +9,15 @@ it so it was a LOT of trial and error. But eventually I got my coils. PLUS the r
 Which is TERRRIBLE design practice but it was literally my only option and it took ages. 
 
 <img width="654" height="415" alt="Screenshot 2026-06-24 at 12 01 56 PM" src="https://github.com/user-attachments/assets/6470e393-4600-43db-8533-e1bf94cc2ab2" />
+
+I kinda just did like, everything after that. I did the silkscreen, some gold etching,and patterns n stuff. I also made my own website but that's a seperate thing.
+I'm really happy with it. I think it is a very sleek design.
+
+<img width="1393" height="916" alt="Screenshot 2026-06-24 at 1 50 08 PM" src="https://github.com/user-attachments/assets/9d934223-b1d7-4504-8195-da74dc24fe4d" />
+<img width="1429" height="820" alt="Screenshot 2026-06-24 at 1 49 56 PM" src="https://github.com/user-attachments/assets/109870ce-2018-4ce7-910b-acfde8be5eb6" />
+<img width="1118" height="637" alt="Screenshot 2026-06-24 at 1 49 43 PM" src="https://github.com/user-attachments/assets/ae37a6dc-6435-4c14-9dd1-4fdbd75e0884" />
+
+
+It's literally a Tesla coil business card. WTF is cooler.
+
+Time Spent: 5 Hours
